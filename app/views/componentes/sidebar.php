@@ -61,7 +61,7 @@ if (!class_exists('Router')) {
             // Dirigir
             'dirigir' => 'app/controllers/DirigirController.php',
             // Controlar Recursos 
-            'controlar_recursos' => 'views/modulos/controlar_recursos/controlar_recursos.php',
+            'controlar_recursos' => 'app/controllers/ControlarController.php',
             
             // Sistema
             'logout' => 'app/controllers/cerrar_sesion.php',
